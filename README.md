@@ -9,6 +9,6 @@ View daily scores of Major League Baseball.
 
 ## ディレクトリ構成
 ./  
-+---public_html/  
-|   +---zipscore/　Webに公開するスクリプト本体を配置します。  
-+---zipscore/　　　Webに公開しないサブモジュールを配置します。  
+├─public_html/  
+│ └─zipscore/　Webに公開するスクリプト本体を配置します。  
+└─zipscore/　　　Webに公開しないサブモジュールを配置します。  
